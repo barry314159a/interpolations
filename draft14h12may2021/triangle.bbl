@@ -1,0 +1,989 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{akiyama1992note}{article}{}
+      \name{author}{1}{}{%
+        {{hash=482542167dc025bb150569e9530041ae}{%
+           family={Akiyama},
+           familyi={A\bibinitperiod},
+           given={Shigeki},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{482542167dc025bb150569e9530041ae}
+      \strng{fullhash}{482542167dc025bb150569e9530041ae}
+      \strng{bibnamehash}{482542167dc025bb150569e9530041ae}
+      \strng{authorbibnamehash}{482542167dc025bb150569e9530041ae}
+      \strng{authornamehash}{482542167dc025bb150569e9530041ae}
+      \strng{authorfullhash}{482542167dc025bb150569e9530041ae}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Ramanujan Math. Soc}
+      \field{number}{1}
+      \field{title}{A note on Hecke's absolute invariants}
+      \field{volume}{7}
+      \field{year}{1992}
+      \field{pages}{65\bibrangedash 81}
+      \range{pages}{17}
+    \endentry
+    \entry{apostolIntroduction}{book}{}
+      \name{author}{1}{}{%
+        {{hash=125cfbd85cc6e304e8467fb8dded9ad1}{%
+           family={Apostol},
+           familyi={A\bibinitperiod},
+           given={Tom\bibnamedelima M},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{125cfbd85cc6e304e8467fb8dded9ad1}
+      \strng{fullhash}{125cfbd85cc6e304e8467fb8dded9ad1}
+      \strng{bibnamehash}{125cfbd85cc6e304e8467fb8dded9ad1}
+      \strng{authorbibnamehash}{125cfbd85cc6e304e8467fb8dded9ad1}
+      \strng{authornamehash}{125cfbd85cc6e304e8467fb8dded9ad1}
+      \strng{authorfullhash}{125cfbd85cc6e304e8467fb8dded9ad1}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to analytic number theory}
+      \field{year}{1976}
+    \endentry
+    \entry{balakrishnan2020variations}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c66e21924a9d6cbb39585490a539eae3}{%
+           family={Balakrishnan},
+           familyi={B\bibinitperiod},
+           given={Jennifer\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=ebfaa505671bec664ad3ca5add72d05a}{%
+           family={Craig},
+           familyi={C\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=59093614e3ba498e7bdf7a6569a74d3f}{%
+           family={Ono},
+           familyi={O\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6611fb19352b4b154d03ee9762c11269}
+      \strng{fullhash}{6611fb19352b4b154d03ee9762c11269}
+      \strng{bibnamehash}{6611fb19352b4b154d03ee9762c11269}
+      \strng{authorbibnamehash}{6611fb19352b4b154d03ee9762c11269}
+      \strng{authornamehash}{6611fb19352b4b154d03ee9762c11269}
+      \strng{authorfullhash}{6611fb19352b4b154d03ee9762c11269}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Number Theory}
+      \field{title}{Variations of Lehmer's Conjecture for Ramanujan's tau-function}
+      \field{year}{2020}
+    \endentry
+    \entry{berndt2008hecke}{book}{}
+      \name{author}{2}{}{%
+        {{hash=32f67e66d7ab79f4143b41c123438a29}{%
+           family={Berndt},
+           familyi={B\bibinitperiod},
+           given={Bruce\bibnamedelima C},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=38d88b67c4839526c5868bc83d416440}{%
+           family={Knopp},
+           familyi={K\bibinitperiod},
+           given={Marvin\bibnamedelima Isadore},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Scientific}%
+      }
+      \strng{namehash}{fccb5265f57e18e8670363fcb2ae7e3b}
+      \strng{fullhash}{fccb5265f57e18e8670363fcb2ae7e3b}
+      \strng{bibnamehash}{fccb5265f57e18e8670363fcb2ae7e3b}
+      \strng{authorbibnamehash}{fccb5265f57e18e8670363fcb2ae7e3b}
+      \strng{authornamehash}{fccb5265f57e18e8670363fcb2ae7e3b}
+      \strng{authorfullhash}{fccb5265f57e18e8670363fcb2ae7e3b}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hecke's theory of modular forms and Dirichlet series}
+      \field{volume}{5}
+      \field{year}{2008}
+    \endentry
+    \entry{test3}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=fb591b7ee10003f2f16af8ebfb4f5edb}{%
+           family={Brent},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb591b7ee10003f2f16af8ebfb4f5edb}
+      \strng{fullhash}{fb591b7ee10003f2f16af8ebfb4f5edb}
+      \strng{bibnamehash}{fb591b7ee10003f2f16af8ebfb4f5edb}
+      \strng{authorbibnamehash}{fb591b7ee10003f2f16af8ebfb4f5edb}
+      \strng{authornamehash}{fb591b7ee10003f2f16af8ebfb4f5edb}
+      \strng{authorfullhash}{fb591b7ee10003f2f16af8ebfb4f5edb}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/barry314159a/interpolations}}
+      \field{title}{Interpolations repository}
+    \endentry
+    \entry{brent1998quadratic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=55db5fe9878618434627b4b9944bf41b}{%
+           family={Brent},
+           familyi={B\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{55db5fe9878618434627b4b9944bf41b}
+      \strng{fullhash}{55db5fe9878618434627b4b9944bf41b}
+      \strng{bibnamehash}{55db5fe9878618434627b4b9944bf41b}
+      \strng{authorbibnamehash}{55db5fe9878618434627b4b9944bf41b}
+      \strng{authornamehash}{55db5fe9878618434627b4b9944bf41b}
+      \strng{authorfullhash}{55db5fe9878618434627b4b9944bf41b}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Experimental Mathematics}
+      \field{number}{3}
+      \field{title}{Quadratic minima and modular forms}
+      \field{volume}{7}
+      \field{year}{1998}
+      \field{pages}{257\bibrangedash 274}
+      \range{pages}{18}
+    \endentry
+    \entry{brent2001quadratic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=55db5fe9878618434627b4b9944bf41b}{%
+           family={Brent},
+           familyi={B\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{55db5fe9878618434627b4b9944bf41b}
+      \strng{fullhash}{55db5fe9878618434627b4b9944bf41b}
+      \strng{bibnamehash}{55db5fe9878618434627b4b9944bf41b}
+      \strng{authorbibnamehash}{55db5fe9878618434627b4b9944bf41b}
+      \strng{authornamehash}{55db5fe9878618434627b4b9944bf41b}
+      \strng{authorfullhash}{55db5fe9878618434627b4b9944bf41b}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Arithmetica}
+      \field{number}{4}
+      \field{title}{Quadratic minima and modular forms II}
+      \field{volume}{96}
+      \field{year}{2001}
+      \field{pages}{381\bibrangedash 387}
+      \range{pages}{7}
+    \endentry
+    \entry{cangul1996group}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8aa487ffe75eeb513f653638d181cb22}{%
+           family={Cang{ü}l},
+           familyi={C\bibinitperiod},
+           given={I.\bibnamedelimi N.},
+           giveni={I\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {The Scientific}%
+        {Technological Research Council of Turkey}%
+      }
+      \strng{namehash}{8aa487ffe75eeb513f653638d181cb22}
+      \strng{fullhash}{8aa487ffe75eeb513f653638d181cb22}
+      \strng{bibnamehash}{8aa487ffe75eeb513f653638d181cb22}
+      \strng{authorbibnamehash}{8aa487ffe75eeb513f653638d181cb22}
+      \strng{authornamehash}{8aa487ffe75eeb513f653638d181cb22}
+      \strng{authorfullhash}{8aa487ffe75eeb513f653638d181cb22}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Turkish Journal of Mathematics}
+      \field{number}{2}
+      \field{title}{The group structure of Hecke groups H($\lambda_q$)}
+      \field{volume}{20}
+      \field{year}{1996}
+      \field{pages}{203\bibrangedash 207}
+      \range{pages}{5}
+    \endentry
+    \entry{caratheodory1}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f852594d62b64ec34faf51b3c2a1b087}{%
+           family={Carath{é}odory},
+           familyi={C\bibinitperiod},
+           given={Constantin},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Chelsea Publishing Company.}%
+      }
+      \strng{namehash}{f852594d62b64ec34faf51b3c2a1b087}
+      \strng{fullhash}{f852594d62b64ec34faf51b3c2a1b087}
+      \strng{bibnamehash}{f852594d62b64ec34faf51b3c2a1b087}
+      \strng{authorbibnamehash}{f852594d62b64ec34faf51b3c2a1b087}
+      \strng{authornamehash}{f852594d62b64ec34faf51b3c2a1b087}
+      \strng{authorfullhash}{f852594d62b64ec34faf51b3c2a1b087}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Translated by F. Steinhardt}
+      \field{title}{Theory of functions of a complex variable, Second English Edition}
+      \field{volume}{1}
+      \field{year}{1958}
+    \endentry
+    \entry{caratheodory2}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f852594d62b64ec34faf51b3c2a1b087}{%
+           family={Carath{é}odory},
+           familyi={C\bibinitperiod},
+           given={Constantin},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Chelsea Publishing Company.}%
+      }
+      \strng{namehash}{f852594d62b64ec34faf51b3c2a1b087}
+      \strng{fullhash}{f852594d62b64ec34faf51b3c2a1b087}
+      \strng{bibnamehash}{f852594d62b64ec34faf51b3c2a1b087}
+      \strng{authorbibnamehash}{f852594d62b64ec34faf51b3c2a1b087}
+      \strng{authornamehash}{f852594d62b64ec34faf51b3c2a1b087}
+      \strng{authorfullhash}{f852594d62b64ec34faf51b3c2a1b087}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Translated by F. Steinhardt}
+      \field{title}{Theory of functions of a complex variable, Second English Edition}
+      \field{volume}{2}
+      \field{year}{1981}
+    \endentry
+    \entry{conway2013sphere}{book}{}
+      \name{author}{2}{}{%
+        {{hash=461c708aba6894f61acef1ccd46c8384}{%
+           family={Conway},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima Horton},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=f37ed451e694e30a11d54cb6bfc22894}{%
+           family={Sloane},
+           familyi={S\bibinitperiod},
+           given={Neil\bibnamedelimb James\bibnamedelima Alexander},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science \& Business Media}%
+      }
+      \strng{namehash}{507c60a18a9669edea0fb2e219c4358a}
+      \strng{fullhash}{507c60a18a9669edea0fb2e219c4358a}
+      \strng{bibnamehash}{507c60a18a9669edea0fb2e219c4358a}
+      \strng{authorbibnamehash}{507c60a18a9669edea0fb2e219c4358a}
+      \strng{authornamehash}{507c60a18a9669edea0fb2e219c4358a}
+      \strng{authorfullhash}{507c60a18a9669edea0fb2e219c4358a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sphere packings, lattices and groups}
+      \field{volume}{290}
+      \field{year}{2013}
+    \endentry
+    \entry{hyper}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=de8a5ac389e7af0225d2f33139c0666c}{%
+           family={Encyclopedia},
+           familyi={E\bibinitperiod},
+           given={Wikipedia\bibnamedelimb The\bibnamedelima Free},
+           giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{de8a5ac389e7af0225d2f33139c0666c}
+      \strng{fullhash}{de8a5ac389e7af0225d2f33139c0666c}
+      \strng{bibnamehash}{de8a5ac389e7af0225d2f33139c0666c}
+      \strng{authorbibnamehash}{de8a5ac389e7af0225d2f33139c0666c}
+      \strng{authornamehash}{de8a5ac389e7af0225d2f33139c0666c}
+      \strng{authorfullhash}{de8a5ac389e7af0225d2f33139c0666c}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://en.wikipedia.org/wiki/Hyperoctahedral_group}}
+      \field{title}{Hyperoctahedral group}
+      \field{year}{23 October 2020}
+    \endentry
+    \entry{eulerdiscovery}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0c5ab308e5e0220e128c0ac7df62c495}{%
+           family={Euler},
+           familyi={E\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c5ab308e5e0220e128c0ac7df62c495}
+      \strng{fullhash}{0c5ab308e5e0220e128c0ac7df62c495}
+      \strng{bibnamehash}{0c5ab308e5e0220e128c0ac7df62c495}
+      \strng{authorbibnamehash}{0c5ab308e5e0220e128c0ac7df62c495}
+      \strng{authornamehash}{0c5ab308e5e0220e128c0ac7df62c495}
+      \strng{authorfullhash}{0c5ab308e5e0220e128c0ac7df62c495}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{E175}
+      \field{journaltitle}{Enestr{ö}m index}
+      \field{title}{Discovery of a most extraordinary law of numbers concerning the sum of their divisors, Opera Omnia, Ser. 1}
+      \field{volume}{2}
+      \field{pages}{241\bibrangedash 253}
+      \range{pages}{13}
+    \endentry
+    \entry{fricke1922elliptischen}{book}{}
+      \name{author}{1}{}{%
+        {{hash=29537e586082f7d538d7e684f329002d}{%
+           family={Fricke},
+           familyi={F\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BG Teubner}%
+      }
+      \strng{namehash}{29537e586082f7d538d7e684f329002d}
+      \strng{fullhash}{29537e586082f7d538d7e684f329002d}
+      \strng{bibnamehash}{29537e586082f7d538d7e684f329002d}
+      \strng{authorbibnamehash}{29537e586082f7d538d7e684f329002d}
+      \strng{authornamehash}{29537e586082f7d538d7e684f329002d}
+      \strng{authorfullhash}{29537e586082f7d538d7e684f329002d}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die elliptischen Funktionen und ihre Anwendungen}
+      \field{volume}{1}
+      \field{year}{1922}
+    \endentry
+    \entry{graczyk2005hyper}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f4d3ee10ad82c063c98401b843677e6b}{%
+           family={Graczyk},
+           familyi={G\bibinitperiod},
+           given={Piotr},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d8e73a8aea1edf72e5ef6ee97be587a6}{%
+           family={Letac},
+           familyi={L\bibinitperiod},
+           given={G{é}rard},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c5d854b35d63d7401feba6f151a7581c}{%
+           family={Massam},
+           familyi={M\bibinitperiod},
+           given={H{é}l{è}ne},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{59bd7dd84f8d5bc447455ef0758d1dc0}
+      \strng{fullhash}{59bd7dd84f8d5bc447455ef0758d1dc0}
+      \strng{bibnamehash}{59bd7dd84f8d5bc447455ef0758d1dc0}
+      \strng{authorbibnamehash}{59bd7dd84f8d5bc447455ef0758d1dc0}
+      \strng{authornamehash}{59bd7dd84f8d5bc447455ef0758d1dc0}
+      \strng{authorfullhash}{59bd7dd84f8d5bc447455ef0758d1dc0}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Theoretical Probability}
+      \field{number}{1}
+      \field{title}{The hyperoctahedral group, symmetric group representations and the moments of the real Wishart distribution}
+      \field{volume}{18}
+      \field{year}{2005}
+      \field{pages}{1\bibrangedash 42}
+      \range{pages}{42}
+    \endentry
+    \entry{hecke1938lectures}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fddf636f9ce3b253ee7c8a92d4474885}{%
+           family={Hecke},
+           familyi={H\bibinitperiod},
+           given={Erich},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Vandenhoeck \& Ruprecht}%
+      }
+      \strng{namehash}{fddf636f9ce3b253ee7c8a92d4474885}
+      \strng{fullhash}{fddf636f9ce3b253ee7c8a92d4474885}
+      \strng{bibnamehash}{fddf636f9ce3b253ee7c8a92d4474885}
+      \strng{authorbibnamehash}{fddf636f9ce3b253ee7c8a92d4474885}
+      \strng{authornamehash}{fddf636f9ce3b253ee7c8a92d4474885}
+      \strng{authorfullhash}{fddf636f9ce3b253ee7c8a92d4474885}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lectures on Dirichlet series, modular functions, and quadratic forms}
+      \field{year}{1983}
+    \endentry
+    \entry{hecke1936bestimmung}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fddf636f9ce3b253ee7c8a92d4474885}{%
+           family={Hecke},
+           familyi={H\bibinitperiod},
+           given={Erich},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{fddf636f9ce3b253ee7c8a92d4474885}
+      \strng{fullhash}{fddf636f9ce3b253ee7c8a92d4474885}
+      \strng{bibnamehash}{fddf636f9ce3b253ee7c8a92d4474885}
+      \strng{authorbibnamehash}{fddf636f9ce3b253ee7c8a92d4474885}
+      \strng{authornamehash}{fddf636f9ce3b253ee7c8a92d4474885}
+      \strng{authorfullhash}{fddf636f9ce3b253ee7c8a92d4474885}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematische Annalen}
+      \field{number}{1}
+      \field{title}{{Ü}ber die bestimmung dirichletscher reihen durch ihre funktionalgleichung}
+      \field{volume}{112}
+      \field{year}{1936}
+      \field{pages}{664\bibrangedash 699}
+      \range{pages}{36}
+    \endentry
+    \entry{sagemath}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ca7b66d9bc9614f26e01c215ecf47a27}{%
+           family={Jermann},
+           familyi={J\bibinitperiod},
+           given={Jonas},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca7b66d9bc9614f26e01c215ecf47a27}
+      \strng{fullhash}{ca7b66d9bc9614f26e01c215ecf47a27}
+      \strng{bibnamehash}{ca7b66d9bc9614f26e01c215ecf47a27}
+      \strng{authorbibnamehash}{ca7b66d9bc9614f26e01c215ecf47a27}
+      \strng{authornamehash}{ca7b66d9bc9614f26e01c215ecf47a27}
+      \strng{authorfullhash}{ca7b66d9bc9614f26e01c215ecf47a27}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://doc.sagemath.org/html/en/reference/modfrm_hecketriangle/index.html}}
+      \field{title}{Triangle functions on SageMath site}
+      \field{year}{2013}
+    \endentry
+    \entry{lehmer1947vanishing}{article}{}
+      \name{author}{1}{}{%
+        {{hash=63196bddebd8e713df6bac51c837c623}{%
+           family={Lehmer},
+           familyi={L\bibinitperiod},
+           given={D.\bibnamedelimi H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{63196bddebd8e713df6bac51c837c623}
+      \strng{fullhash}{63196bddebd8e713df6bac51c837c623}
+      \strng{bibnamehash}{63196bddebd8e713df6bac51c837c623}
+      \strng{authorbibnamehash}{63196bddebd8e713df6bac51c837c623}
+      \strng{authornamehash}{63196bddebd8e713df6bac51c837c623}
+      \strng{authorfullhash}{63196bddebd8e713df6bac51c837c623}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Duke Mathematical Journal}
+      \field{number}{2}
+      \field{title}{The vanishing of Ramanujan's function $\tau(n)$}
+      \field{volume}{14}
+      \field{year}{1947}
+      \field{pages}{429\bibrangedash 433}
+      \range{pages}{5}
+    \endentry
+    \entry{lehner1954note}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9780626459897bda23ed03a725695eeb}{%
+           family={Lehner},
+           familyi={L\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pacific Journal of Mathematics}%
+      }
+      \strng{namehash}{9780626459897bda23ed03a725695eeb}
+      \strng{fullhash}{9780626459897bda23ed03a725695eeb}
+      \strng{bibnamehash}{9780626459897bda23ed03a725695eeb}
+      \strng{authorbibnamehash}{9780626459897bda23ed03a725695eeb}
+      \strng{authornamehash}{9780626459897bda23ed03a725695eeb}
+      \strng{authorfullhash}{9780626459897bda23ed03a725695eeb}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pacific Journal of Mathematics}
+      \field{number}{2}
+      \field{title}{Note on the Schwarz triangle functions.}
+      \field{volume}{4}
+      \field{year}{1954}
+      \field{pages}{243\bibrangedash 249}
+      \range{pages}{7}
+    \endentry
+    \entry{leo2008fourier}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=df3f3bc6a3b1890df902bb2b166ac846}{%
+           family={Leo},
+           familyi={L\bibinitperiod},
+           given={John\bibnamedelima Garrett},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{df3f3bc6a3b1890df902bb2b166ac846}
+      \strng{fullhash}{df3f3bc6a3b1890df902bb2b166ac846}
+      \strng{bibnamehash}{df3f3bc6a3b1890df902bb2b166ac846}
+      \strng{authorbibnamehash}{df3f3bc6a3b1890df902bb2b166ac846}
+      \strng{authornamehash}{df3f3bc6a3b1890df902bb2b166ac846}
+      \strng{authorfullhash}{df3f3bc6a3b1890df902bb2b166ac846}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://halfaya.org/ucla/research/thesis.pdf}}
+      \field{title}{Fourier coefficients of triangle functions, Ph.D. thesis}
+      \field{year}{2008}
+    \endentry
+    \entry{doi}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6d160d2d77afff859b654d9161d63a49}{%
+           family={Mckay},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=84459dc5efaa1c5ac445c980765233f4}{%
+           family={Strauss},
+           familyi={S\bibinitperiod},
+           given={Hubertus},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{f70e894094c6db39b5242f526b2b90a1}
+      \strng{fullhash}{f70e894094c6db39b5242f526b2b90a1}
+      \strng{bibnamehash}{f70e894094c6db39b5242f526b2b90a1}
+      \strng{authorbibnamehash}{f70e894094c6db39b5242f526b2b90a1}
+      \strng{authornamehash}{f70e894094c6db39b5242f526b2b90a1}
+      \strng{authorfullhash}{f70e894094c6db39b5242f526b2b90a1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications in Algebra}
+      \field{number}{1}
+      \field{title}{The q-series of monstrous moonshine \& the decomposition of the head characters}
+      \field{volume}{18}
+      \field{year}{1990}
+      \field{pages}{253\bibrangedash 278}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1080/00927879008823911
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/00927879008823911
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/00927879008823911
+      \endverb
+    \endentry
+    \entry{miller1918groups}{article}{}
+      \name{author}{1}{}{%
+        {{hash=040b418fd18da021f83979e547a2d2d1}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={GA},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{040b418fd18da021f83979e547a2d2d1}
+      \strng{fullhash}{040b418fd18da021f83979e547a2d2d1}
+      \strng{bibnamehash}{040b418fd18da021f83979e547a2d2d1}
+      \strng{authorbibnamehash}{040b418fd18da021f83979e547a2d2d1}
+      \strng{authornamehash}{040b418fd18da021f83979e547a2d2d1}
+      \strng{authorfullhash}{040b418fd18da021f83979e547a2d2d1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulletin of the American Mathematical Society}
+      \field{number}{4}
+      \field{title}{Groups formed by special matrices}
+      \field{volume}{24}
+      \field{year}{1918}
+      \field{pages}{203\bibrangedash 206}
+      \range{pages}{4}
+    \endentry
+    \entry{ono1995representation}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=59093614e3ba498e7bdf7a6569a74d3f}{%
+           family={Ono},
+           familyi={O\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod}}}%
+        {{hash=881685998ec766baf84dfce0c9137ca1}{%
+           family={Robins},
+           familyi={R\bibinitperiod},
+           given={Sinai},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ae3fe87a61029331959a45d65ed1e05a}{%
+           family={Wahl},
+           familyi={W\bibinitperiod},
+           given={Patrick\bibnamedelima T},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{652bc97b92560e3f5074483334913258}
+      \strng{fullhash}{652bc97b92560e3f5074483334913258}
+      \strng{bibnamehash}{652bc97b92560e3f5074483334913258}
+      \strng{authorbibnamehash}{652bc97b92560e3f5074483334913258}
+      \strng{authornamehash}{652bc97b92560e3f5074483334913258}
+      \strng{authorfullhash}{652bc97b92560e3f5074483334913258}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Aggregating clones, colors, equations, iterates, numbers, and tiles}
+      \field{title}{On the representation of integers as sums of triangular numbers}
+      \field{year}{1995}
+      \field{pages}{73\bibrangedash 94}
+      \range{pages}{22}
+    \endentry
+    \entry{raleigh1962fourier}{article}{}
+      \name{author}{1}{}{%
+        {{hash=519681b4a3675c2a6720320ed999bbc1}{%
+           family={Raleigh},
+           familyi={R\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Instytut Matematyczny Polskiej Akademii Nauk}%
+      }
+      \strng{namehash}{519681b4a3675c2a6720320ed999bbc1}
+      \strng{fullhash}{519681b4a3675c2a6720320ed999bbc1}
+      \strng{bibnamehash}{519681b4a3675c2a6720320ed999bbc1}
+      \strng{authorbibnamehash}{519681b4a3675c2a6720320ed999bbc1}
+      \strng{authornamehash}{519681b4a3675c2a6720320ed999bbc1}
+      \strng{authorfullhash}{519681b4a3675c2a6720320ed999bbc1}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Arithmetica}
+      \field{title}{On the Fourier coefficients of triangle functions}
+      \field{volume}{8}
+      \field{year}{1962}
+      \field{pages}{107\bibrangedash 111}
+      \range{pages}{5}
+    \endentry
+    \entry{rankinModular}{book}{}
+      \name{author}{1}{}{%
+        {{hash=317759bbe21537cd10c8f8a1969fe9be}{%
+           family={Rankin},
+           familyi={R\bibinitperiod},
+           given={R.A.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press, Cambridge}%
+      }
+      \strng{namehash}{317759bbe21537cd10c8f8a1969fe9be}
+      \strng{fullhash}{317759bbe21537cd10c8f8a1969fe9be}
+      \strng{bibnamehash}{317759bbe21537cd10c8f8a1969fe9be}
+      \strng{authorbibnamehash}{317759bbe21537cd10c8f8a1969fe9be}
+      \strng{authornamehash}{317759bbe21537cd10c8f8a1969fe9be}
+      \strng{authorfullhash}{317759bbe21537cd10c8f8a1969fe9be}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modular Forms and Functions}
+      \field{year}{1977}
+    \endentry
+    \entry{schoeneberg1974}{book}{}
+      \name{author}{1}{}{%
+        {{hash=46d928dbd62e3f255e7fb62053f9f696}{%
+           family={Schoeneberg},
+           familyi={S\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{46d928dbd62e3f255e7fb62053f9f696}
+      \strng{fullhash}{46d928dbd62e3f255e7fb62053f9f696}
+      \strng{bibnamehash}{46d928dbd62e3f255e7fb62053f9f696}
+      \strng{authorbibnamehash}{46d928dbd62e3f255e7fb62053f9f696}
+      \strng{authornamehash}{46d928dbd62e3f255e7fb62053f9f696}
+      \strng{authorfullhash}{46d928dbd62e3f255e7fb62053f9f696}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Elliptic modular functions}
+      \field{year}{1974}
+      \field{pages}{45}
+      \range{pages}{1}
+    \endentry
+    \entry{schwarz1873ueber}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0d1c67d1afc4a25fb56aa6978c9f41b8}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={Hermann\bibnamedelima Amandus},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d1c67d1afc4a25fb56aa6978c9f41b8}
+      \strng{fullhash}{0d1c67d1afc4a25fb56aa6978c9f41b8}
+      \strng{bibnamehash}{0d1c67d1afc4a25fb56aa6978c9f41b8}
+      \strng{authorbibnamehash}{0d1c67d1afc4a25fb56aa6978c9f41b8}
+      \strng{authornamehash}{0d1c67d1afc4a25fb56aa6978c9f41b8}
+      \strng{authorfullhash}{0d1c67d1afc4a25fb56aa6978c9f41b8}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal f{ü}r die reine und angewandte Mathematik}
+      \field{title}{Ueber diejenigen F{ä}lle, in welchen die Gaussische hypergeometrische Reihe eine algebraische Function ihres vierten Elementes darstellt.}
+      \field{volume}{75}
+      \field{year}{1873}
+      \field{pages}{292\bibrangedash 335}
+      \range{pages}{44}
+    \endentry
+    \entry{serre1970course}{book}{}
+      \name{author}{1}{}{%
+        {{hash=523a41970d92b80420ca6d5307619da7}{%
+           family={Serre},
+           familyi={S\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{523a41970d92b80420ca6d5307619da7}
+      \strng{fullhash}{523a41970d92b80420ca6d5307619da7}
+      \strng{bibnamehash}{523a41970d92b80420ca6d5307619da7}
+      \strng{authorbibnamehash}{523a41970d92b80420ca6d5307619da7}
+      \strng{authornamehash}{523a41970d92b80420ca6d5307619da7}
+      \strng{authorfullhash}{523a41970d92b80420ca6d5307619da7}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Grad. Texts in Math}
+      \field{title}{A course in arithmetic}
+      \field{year}{1970}
+    \endentry
+    \entry{OEIS}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bdcac8dedb9591786db682b397f5a984}{%
+           family={Sloane},
+           familyi={S\bibinitperiod},
+           given={Neil\bibnamedelimb J.\bibnamedelimi A.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{fullhash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{bibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorbibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authornamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorfullhash}{bdcac8dedb9591786db682b397f5a984}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://oeis.org/}}
+      \field{title}{The On-Line Encyclopedia of Integer Sequences}
+    \endentry
+    \entry{OEIS3}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bdcac8dedb9591786db682b397f5a984}{%
+           family={Sloane},
+           familyi={S\bibinitperiod},
+           given={Neil\bibnamedelimb J.\bibnamedelimi A.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{fullhash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{bibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorbibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authornamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorfullhash}{bdcac8dedb9591786db682b397f5a984}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://oeis.org/A002408}}
+      \field{title}{The On-Line Encyclopedia of Integer Sequences, A002408}
+    \endentry
+    \entry{OEIS4}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bdcac8dedb9591786db682b397f5a984}{%
+           family={Sloane},
+           familyi={S\bibinitperiod},
+           given={Neil\bibnamedelimb J.\bibnamedelimi A.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{fullhash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{bibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorbibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authornamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorfullhash}{bdcac8dedb9591786db682b397f5a984}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://oeis.org/A007331}}
+      \field{title}{The On-Line Encyclopedia of Integer Sequences, A007331}
+    \endentry
+    \entry{OEIS5}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bdcac8dedb9591786db682b397f5a984}{%
+           family={Sloane},
+           familyi={S\bibinitperiod},
+           given={Neil\bibnamedelimb J.\bibnamedelimi A.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{fullhash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{bibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorbibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authornamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorfullhash}{bdcac8dedb9591786db682b397f5a984}
+      \field{extraname}{4}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://oeis.org/A008658}}
+      \field{title}{The On-Line Encyclopedia of Integer Sequences, A008658}
+    \endentry
+    \entry{OEIS7}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bdcac8dedb9591786db682b397f5a984}{%
+           family={Sloane},
+           familyi={S\bibinitperiod},
+           given={Neil\bibnamedelimb J.\bibnamedelimi A.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{fullhash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{bibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorbibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authornamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorfullhash}{bdcac8dedb9591786db682b397f5a984}
+      \field{extraname}{5}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://oeis.org/A014103}}
+      \field{title}{The On-Line Encyclopedia of Integer Sequences, A014103}
+    \endentry
+    \entry{OEIS2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bdcac8dedb9591786db682b397f5a984}{%
+           family={Sloane},
+           familyi={S\bibinitperiod},
+           given={Neil\bibnamedelimb J.\bibnamedelimi A.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{fullhash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{bibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorbibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authornamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorfullhash}{bdcac8dedb9591786db682b397f5a984}
+      \field{extraname}{6}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://oeis.org/A097340}}
+      \field{title}{The On-Line Encyclopedia of Integer Sequences, A097340}
+    \endentry
+    \entry{OEIS6}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bdcac8dedb9591786db682b397f5a984}{%
+           family={Sloane},
+           familyi={S\bibinitperiod},
+           given={Neil\bibnamedelimb J.\bibnamedelimi A.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{fullhash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{bibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorbibnamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authornamehash}{bdcac8dedb9591786db682b397f5a984}
+      \strng{authorfullhash}{bdcac8dedb9591786db682b397f5a984}
+      \field{extraname}{7}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://oeis.org/A100130}}
+      \field{title}{The On-Line Encyclopedia of Integer Sequences, A100130}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
