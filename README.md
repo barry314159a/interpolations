@@ -1,2 +1,2 @@
 # interpolations
-There is a recent draft of the still-unfinished paper supported by these documents in the top directory.
+The file "triangle_functions.pdf" in the top directory is a recent incomplete draft of the article supported by the files in this directory.
