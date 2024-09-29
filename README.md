@@ -10,7 +10,7 @@ These errors don't appear to affect the correctness of any statement in my
 2021 INTEGERS paper. If a user finds otherwise, please contact me (Barry Brent)
 at the email address:
 
-barrybrent(at)iphouse.com 
+barry314159(at)gmail.com
 
 -----------------------------------
 
